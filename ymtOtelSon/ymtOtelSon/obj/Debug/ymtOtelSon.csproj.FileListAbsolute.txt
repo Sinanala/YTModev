@@ -1,0 +1,13 @@
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\bin\Debug\ymtOtelSon.exe
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\bin\Debug\ymtOtelSon.pdb
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.Kayit1.resources
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.Properties.Resources.resources
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.exe
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.pdb
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.Form1.resources
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.Giris.resources
+C:\Users\sinan\source\repos\ymtOtelSon\ymtOtelSon\obj\Debug\ymtOtelSon.AnaForm.resources
